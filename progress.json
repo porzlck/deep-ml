@@ -1,0 +1,122 @@
+{
+  "generated_at": "2026-09-19T14:33:54.865Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-01-12T12:04:04.637Z",
+      "last_pushed_at": "2026-01-12T12:04:04.637Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-01-12T13:04:10.749Z",
+      "last_pushed_at": "2026-01-12T13:04:10.749Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-01-12T13:12:52.151Z",
+      "last_pushed_at": "2026-01-12T13:12:52.151Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-01-12T13:18:48.144Z",
+      "last_pushed_at": "2026-01-12T13:18:48.144Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-01-12T13:27:27.071Z",
+      "last_pushed_at": "2026-01-12T13:27:27.071Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-01-12T13:46:33.290Z",
+      "last_pushed_at": "2026-01-12T13:46:33.290Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-01-12T14:03:43.312Z",
+      "last_pushed_at": "2026-01-12T14:03:43.312Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-01-12T14:08:56.524Z",
+      "last_pushed_at": "2026-01-12T14:08:56.524Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-01-12T14:17:58.038Z",
+      "last_pushed_at": "2026-01-12T14:17:58.038Z",
+      "language": "python",
+      "lines": 16
+    }
+  }
+}
