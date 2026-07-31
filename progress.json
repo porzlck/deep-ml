@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:33:54.865Z",
+  "generated_at": "2026-09-19T14:33:56.819Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,45 @@
       "last_pushed_at": "2026-01-12T14:17:58.038Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:108": {
+      "kind": "problem",
+      "id": "108",
+      "title": "Measure Disorder in Apple Colors",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/108",
+      "path": "problems/0108-measure-disorder-in-apple-colors",
+      "first_solved_at": "2026-07-31T14:15:43.577Z",
+      "last_pushed_at": "2026-07-31T14:15:43.577Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2026-07-31T14:39:21.355Z",
+      "last_pushed_at": "2026-07-31T14:39:21.355Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:138": {
+      "kind": "problem",
+      "id": "138",
+      "title": "Find the Best Gini-Based Split for a Binary Decision Tree",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/138",
+      "path": "problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree",
+      "first_solved_at": "2026-07-31T15:36:08.467Z",
+      "last_pushed_at": "2026-07-31T15:36:08.467Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
