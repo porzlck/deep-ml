@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:33:58.261Z",
+  "generated_at": "2026-09-19T14:33:59.765Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,84 @@
       "last_pushed_at": "2026-09-08T11:30:42.445Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:20": {
+      "kind": "problem",
+      "id": "20",
+      "title": "Decision Tree Learning",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/20",
+      "path": "problems/0020-decision-tree-learning",
+      "first_solved_at": "2026-09-10T05:26:09.274Z",
+      "last_pushed_at": "2026-09-10T05:26:09.274Z",
+      "language": "python",
+      "lines": 69
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-10T06:09:45.830Z",
+      "last_pushed_at": "2026-09-10T06:09:45.830Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-10T06:22:37.978Z",
+      "last_pushed_at": "2026-09-10T06:22:37.978Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-10T06:25:57.752Z",
+      "last_pushed_at": "2026-09-10T06:25:57.752Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-10T06:45:59.054Z",
+      "last_pushed_at": "2026-09-10T06:45:59.054Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-09-10T12:42:11.597Z",
+      "last_pushed_at": "2026-09-10T12:42:11.597Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
