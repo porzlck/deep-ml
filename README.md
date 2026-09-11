@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 20 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-12 | [solution](problems/0007-matrix-transformation) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-10 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-10 | [solution](problems/0020-decision-tree-learning) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-11 | [solution](math/0030-ml-workflow-basics) |
 
 ---
 
