@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:34:01.410Z",
+  "generated_at": "2026-09-19T14:34:03.045Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -271,6 +271,32 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-11T12:30:12.322Z",
       "last_pushed_at": "2026-09-11T12:30:12.322Z"
+    },
+    "problem:817": {
+      "kind": "problem",
+      "id": "817",
+      "title": "Multinomial Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/817",
+      "path": "problems/0817-multinomial-naive-bayes-classifier",
+      "first_solved_at": "2026-09-13T03:33:08.470Z",
+      "last_pushed_at": "2026-09-13T03:33:08.470Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2026-09-13T04:20:58.351Z",
+      "last_pushed_at": "2026-09-13T04:20:58.351Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
