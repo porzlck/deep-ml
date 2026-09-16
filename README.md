@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 22 problems · 0 labs · 1 math
+**29** solved · 28 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-01-12 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-01-12 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-09-16 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-10 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-08 | [solution](problems/0014-linear-regression-using-normal-equation) |
@@ -29,11 +30,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-07-31 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-07-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-16 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-16 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-16 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-01-12 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-12 | [solution](problems/0007-matrix-transformation) |
 | [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-09-13 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-10 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-10 | [solution](problems/0020-decision-tree-learning) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-16 | [solution](problems/0094-implement-multi-head-attention) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-16 | [solution](problems/0085-positional-encoding-calculator) |
 
 ## Math
 

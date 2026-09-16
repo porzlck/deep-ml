@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:34:03.045Z",
+  "generated_at": "2026-09-19T14:34:04.536Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -297,6 +297,84 @@
       "last_pushed_at": "2026-09-13T04:20:58.351Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-16T04:13:48.819Z",
+      "last_pushed_at": "2026-09-16T04:13:48.819Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-09-16T09:00:47.482Z",
+      "last_pushed_at": "2026-09-16T09:00:47.482Z",
+      "language": "python",
+      "lines": 72
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-16T09:06:41.151Z",
+      "last_pushed_at": "2026-09-16T09:06:41.151Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-09-16T11:45:50.820Z",
+      "last_pushed_at": "2026-09-16T11:45:50.820Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-09-16T13:26:42.409Z",
+      "last_pushed_at": "2026-09-16T13:26:42.409Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-09-16T13:37:49.738Z",
+      "last_pushed_at": "2026-09-16T13:37:49.738Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
