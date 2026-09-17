@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:34:04.536Z",
+  "generated_at": "2026-09-19T14:34:06.159Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -375,6 +375,58 @@
       "last_pushed_at": "2026-09-16T13:37:49.738Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-09-17T05:03:17.074Z",
+      "last_pushed_at": "2026-09-17T05:03:17.074Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-09-17T09:11:18.164Z",
+      "last_pushed_at": "2026-09-17T09:11:18.164Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-09-17T09:28:38.089Z",
+      "last_pushed_at": "2026-09-17T09:28:38.089Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-09-17T13:43:19.730Z",
+      "last_pushed_at": "2026-09-17T13:43:19.730Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
