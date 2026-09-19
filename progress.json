@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:34:06.159Z",
+  "generated_at": "2026-09-19T14:34:07.740Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -427,6 +427,84 @@
       "last_pushed_at": "2026-09-17T13:43:19.730Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:190": {
+      "kind": "problem",
+      "id": "190",
+      "title": "Overlapping Max Pooling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/190",
+      "path": "problems/0190-overlapping-max-pooling",
+      "first_solved_at": "2026-09-19T07:22:22.538Z",
+      "last_pushed_at": "2026-09-19T07:22:22.538Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:189": {
+      "kind": "problem",
+      "id": "189",
+      "title": "Implement Local Response Normalization (LRN)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/189",
+      "path": "problems/0189-implement-local-response-normalization-lrn",
+      "first_solved_at": "2026-09-19T07:44:50.363Z",
+      "last_pushed_at": "2026-09-19T07:44:50.363Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2026-09-19T12:27:40.603Z",
+      "last_pushed_at": "2026-09-19T12:27:40.603Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-09-19T12:52:26.431Z",
+      "last_pushed_at": "2026-09-19T12:52:26.431Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-09-19T12:57:19.123Z",
+      "last_pushed_at": "2026-09-19T12:57:19.123Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-19T14:32:30.479Z",
+      "last_pushed_at": "2026-09-19T14:32:30.479Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
