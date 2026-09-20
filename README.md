@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 38 problems · 0 labs · 1 math
+**40** solved · 39 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-17 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-10 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-10 | [solution](problems/0020-decision-tree-learning) |
+| [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-09-20 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-16 | [solution](problems/0094-implement-multi-head-attention) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-09-19 | [solution](problems/0191-pca-color-augmentation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-16 | [solution](problems/0085-positional-encoding-calculator) |
