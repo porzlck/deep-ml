@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 43 problems · 0 labs · 1 math
+**45** solved · 44 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-09-13 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-01-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [DDPM Noise Schedule (Linear Beta Schedule)](https://www.deep-ml.com/problems/395) | medium | 2026-10-14 | [solution](problems/0395-ddpm-noise-schedule-linear-beta-schedule) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-07-31 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-19 | [solution](problems/0151-dropout-layer) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-07-31 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
